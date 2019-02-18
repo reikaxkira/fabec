@@ -18,14 +18,14 @@ The purpose of the project is to develop a web application that will handle thei
 ![image](https://user-images.githubusercontent.com/6012141/52950075-ff325b00-33b8-11e9-9ca9-afd4fe40c3b8.png)
 ![image](https://user-images.githubusercontent.com/6012141/52950088-08bbc300-33b9-11e9-916f-f0e2491c444e.png)
 
-### About Us
-![image](https://user-images.githubusercontent.com/6012141/52949474-53d4d680-33b7-11e9-85f6-12f4f073481f.png)
-
 ### Prayer Request
 ![image](https://user-images.githubusercontent.com/6012141/52950153-34d74400-33b9-11e9-9168-ad8891844621.png)
 
 ### Finance 
 ![image](https://user-images.githubusercontent.com/6012141/52950165-44568d00-33b9-11e9-86d2-c69b7ce67725.png)
+
+### About Us
+![image](https://user-images.githubusercontent.com/6012141/52949474-53d4d680-33b7-11e9-85f6-12f4f073481f.png)
 
 ### Database Diagram 
 ![image](https://user-images.githubusercontent.com/6012141/52949529-7bc43a00-33b7-11e9-92ce-4defdcd24889.png)
