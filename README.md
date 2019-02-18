@@ -18,4 +18,4 @@ The purpose of the project is to develop a web application that will handle thei
 
 
 ### About Us
-
+![image](https://user-images.githubusercontent.com/6012141/52949474-53d4d680-33b7-11e9-85f6-12f4f073481f.png)
