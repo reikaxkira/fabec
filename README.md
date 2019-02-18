@@ -10,6 +10,8 @@ The purpose of the project is to develop a web application that will handle thei
 
 ### Home Page(Priviledge User)
 
+![image](https://user-images.githubusercontent.com/6012141/52949431-356edb00-33b7-11e9-8c80-72f5e078ccf7.png)
+
 
 ### Event Calendar(Reservation)
 ![image](https://user-images.githubusercontent.com/6012141/52949336-f3de3000-33b6-11e9-82c0-49bb955ce615.png)
